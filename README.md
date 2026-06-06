@@ -1,5 +1,6 @@
 # EX-NO-9-RSA-Algorithm
-
+## NAME: V.S.SREE VIVEKA
+## REG NO: 2305001031
 ## AIM:
 To Implement RSA Encryption Algorithm in Cryptography
 
@@ -98,9 +99,7 @@ int main() {
 
 
 ## Output:
-
-
-
+<img width="515" height="359" alt="image" src="https://github.com/user-attachments/assets/f0ba4836-0c01-4417-8b5a-775453e77c28" />
 
 ## Result:
  The program is executed successfully.
